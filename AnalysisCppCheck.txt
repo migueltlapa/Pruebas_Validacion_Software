@@ -1,0 +1,7 @@
+[contador.c:7]: (style) The scope of the variable 'c' can be reduced.
+[contador.c:7]: (style) The scope of the variable 'inword' can be reduced.
+[contador.c:8]: (style) The scope of the variable 'fp' can be reduced.
+[contador.c:9]: (style) The scope of the variable 'wordct' can be reduced.
+[contador.c:9]: (style) The scope of the variable 'charct' can be reduced.
+[contador.c:10]: (style) Variable 'tlinect' is assigned a value that is never used.
+[contador.c:37]: (style) Variable 'tlinect' is assigned a value that is never used.

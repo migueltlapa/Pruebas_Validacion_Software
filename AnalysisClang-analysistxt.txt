@@ -1,0 +1,4 @@
+contador.c[Ln 8, Col 5]:'fp' declared without an initial value
+contador.c[Ln 13, Col 13]:Assuming 'argc' is <= 1
+contador.c[Ln 13, Col 22]:Left side of '&&' is false
+contador.c[Ln 19, Col 21]:1st function call argument is an uninitialized value

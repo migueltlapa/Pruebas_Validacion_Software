@@ -1,0 +1,5 @@
+Dado el Analisis Estatico usando CppCheck y Clang reportan lo siguiente:
+1. Ambos no reportan Errores de Codigo
+2. Ambos reportan Advertencias de estilo que tiene que ver con buenas practicas de codificacion
+3. No hay Falsos Positivos
+4. No hay Falsos Negativos
